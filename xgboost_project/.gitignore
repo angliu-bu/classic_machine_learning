@@ -1,0 +1,9 @@
+data/*
+!data/.gitkeep
+models/*
+reports/*.png
+reports/*.pdf
+*.log
+*.tmp
+*.ipynb_checkpoints
+.DS_Store
