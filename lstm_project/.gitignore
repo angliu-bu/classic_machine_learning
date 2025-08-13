@@ -1,0 +1,12 @@
+# Data files
+*.csv
+*.xlsx
+*.h5
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+*~
+__pycache__/
+.ipynb_checkpoints/
